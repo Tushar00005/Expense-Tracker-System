@@ -36,16 +36,9 @@ cd client
 npm install
 npm run dev
 
-Client runs on:
-http://localhost:5173
-
 Server Setup
 cd server
 npm install
 npm start
-
-Server runs on:
-http://localhost:5000
-
 
 Built by: R TUSHAR
